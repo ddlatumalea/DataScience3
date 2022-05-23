@@ -1,0 +1,4 @@
+data_dir: "data"
+img_dir: "data/img"
+model_saves_dir: "data/model_saves"
+results_dir: "data/results"
