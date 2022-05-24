@@ -68,7 +68,7 @@ python main.py
 3) run `hyperparams_tuning.py` to create an optimized model.
 
 ```python
-python preprocessing.py
+python hyperparams_tuning.py
 ```
 
 # Conclusions
